@@ -8,7 +8,7 @@ Fivem cfx-server instaler by WoroWoro#3229
 
 # Install:
 
-Aby odpalić instalacje wklej to do konsoli ssh
+* Aby odpalić instalacje wklej to do konsoli ssh
 ```
   bash <(curl -s http://tanieddosy.pl/install.sh)
 ```
