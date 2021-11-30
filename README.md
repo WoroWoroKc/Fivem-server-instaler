@@ -3,7 +3,7 @@ Fivem cfx-server instaler by WoroWoro#3229
 
 #Authors
 
-* WoroWoro: https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ/ | https://woro.website
+* WoroWoro: https://woro.website | https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ/
 
 # Install:
 
