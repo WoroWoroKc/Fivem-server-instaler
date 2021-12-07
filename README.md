@@ -7,12 +7,12 @@ Fivem cfx-server instaler by WoroWoro#3229
 
 # Install:
 
-* Aby odpalić skrypt musisz być zalogowany jako root. Możesz to zrobić komędą
+* Login to root
 ```
   sudo su
 ```
 
-* Aby odpalić instalacje wklej to do konsoli ssh
+* Paste this command to start the installation
 ```
   bash <(curl -s https://tanieddosy.pl/install.sh)
 ```
